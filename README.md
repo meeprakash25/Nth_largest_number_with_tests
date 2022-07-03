@@ -5,6 +5,6 @@ PHP function that would return the Nth largest element from start or the end (de
 - Note: That is the Nth largest element in the sorted order, not the Nth distinct element.
 For Example: Given [3,2,1,5,6,4], n = 2, from = end, return 5. 
 
-I have used selection sort for sorting.
+I have used selection sort for sorting and calculated the Nth largest element from the end(default)
 
 PHP version 7.4
